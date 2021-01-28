@@ -1,0 +1,3 @@
+/home/user/Downloads/net_lab/build/CMakeFiles/rebuild_cache.dir
+/home/user/Downloads/net_lab/build/CMakeFiles/edit_cache.dir
+/home/user/Downloads/net_lab/build/CMakeFiles/main.dir
